@@ -1,5 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+name: Chris Jewell, Geek for Hire
+theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-cayman
