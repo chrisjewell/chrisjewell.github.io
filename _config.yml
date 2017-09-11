@@ -1,3 +1,5 @@
+name: Chris Jewell, Geek for Hire
 theme: jekyll-theme-cayman
-title: [Chris Jewell]
-description: [Geek for hire]
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
