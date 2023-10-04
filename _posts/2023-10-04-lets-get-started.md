@@ -3,10 +3,11 @@ layout: post
 title: Let's Get This Started
 description: Kicking off a log for my the nerdy hobbies that I have too many of
 image:
-category: [meta]
-tags: 
+category:
+- meta
+tags:
+date: 2023-10-04 11:44 -0400
 ---
-
 #### A Preamble
 I have a lot of interests, especially technical/nerdy ones, and though they all 
 seem to make sense together in my mind, I do find that it can be tricky to remember
