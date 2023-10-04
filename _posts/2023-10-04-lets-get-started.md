@@ -12,7 +12,7 @@ I have a lot of interests, especially technical/nerdy ones, and though they all
 seem to make sense together in my mind, I do find that it can be tricky to remember
 what I've been researching, what I've been working on, etc.
 
-I've been inspired by a recent [post on Hackaday[(https://hackaday.com/2023/08/09/share-your-projects-leave-breadcrumbs/)]
+I've been inspired by a recent [post on Hackaday](https://hackaday.com/2023/08/09/share-your-projects-leave-breadcrumbs/)
  to set this site up to just get these thoughts out and published so that they can serve as
 "breadcrumbs" for me or others in the future.
 
