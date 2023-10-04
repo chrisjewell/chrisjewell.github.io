@@ -3,19 +3,18 @@ layout: post
 title: Let's Get This Started
 description: Kicking off a log for my the nerdy hobbies that I have too many of
 image:
-category:
-- meta
-tags:
-date: 2023-10-04 11:44 -0400
+category: [meta]
+tags: 
 ---
+
 #### A Preamble
 I have a lot of interests, especially technical/nerdy ones, and though they all 
 seem to make sense together in my mind, I do find that it can be tricky to remember
 what I've been researching, what I've been working on, etc.
 
-I've been inspired by a recent repost of an old Hackaday article to set this site
-up to just get these thoughts out and published so that they can serve as "breadcrumbs"
-for me or others in the future. (Link to article)
+I've been inspired by a recent [post on Hackaday[(https://hackaday.com/2023/08/09/share-your-projects-leave-breadcrumbs/)]
+ to set this site up to just get these thoughts out and published so that they can serve as
+"breadcrumbs" for me or others in the future.
 
 I also realize that I spend a decent amount of time reading articles and watching videos
 about making, hacking, reverse engineering, radio, etc. and get inspired to "do something" 
