@@ -20,7 +20,7 @@ into the housing of the controller so that I can have both traditional 5-pin MID
 as well as USB MIDI (in the event that I decide to use the controller with a computer down
 the road).
 
-#### Scope already creeping
+#### Scope starts to creep...
 Even with this limited task at hand, I think I'd also like to understand more about how
 the a controller actually functions, how it generates the MIDI commands to send via USB. 
 So, as a result, I'm going to try and do some firmware _and_ hardware reverse engineering 
