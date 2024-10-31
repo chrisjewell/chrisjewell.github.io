@@ -3,9 +3,8 @@ layout: post
 title: Learning to Upgrade my Website's Codebase
 description: Upgrading from jekyll-theme-chirpy v6.2.2 to v7.1.1
 image:
-category: [blog]
+category: [code]
 tags:
-  - blog
   - command-line
   - git
   - learning
